@@ -2,13 +2,13 @@
 
 I am an articulate, confident person who relishes challenges and working under pressure. My greatest strengths are my research, communication and writing skills' am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organization's.
 
-- 🔭 I’m currently working on Professional Web Developer & Graphic Designer
-- 🌱 I’m currently learning about Backend  Development
-- 👯 I’m looking to collaborate on LinkedIn
+- 🔭 I’m currently working on Professional Web Developer & Graphic Designer.
+- 🌱 I’m currently learning about Backend  Development.
+- 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 💬 Ask me about IT or any Tech-related stuff.
-- 📫 How to reach me:ferozmahmudzaki@gmail.com
-- 😄 Pronouns:He/His
+- 📫 How to reach me: ferozmahmudzaki@gmail.com
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep watching movies every day after finishing coding
 
 📫 Reach me out!
@@ -33,8 +33,6 @@ I am an articulate, confident person who relishes challenges and working under p
 
 <img src="https://github-readme-stats.vercel.app/api?username=ferozmahmudzaki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
-
 <summary>
   More stuff about me
 </summary>
@@ -47,8 +45,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <img align="center" height="324px" Width="500px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 
-<br>
-<br>
 <br>
 <br>
 
