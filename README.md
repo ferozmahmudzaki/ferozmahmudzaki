@@ -11,3 +11,6 @@ I am an articulate, confident person who relishes challenges and working under p
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: I sleep watching movies every day after finishing coding
 <img src="https://github-readme-stats.vercel.app/api?username=ferozmahmudzaki&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="right" height="324px" Width="500px"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+
+
